@@ -4,4 +4,7 @@ data/.ipynb_checkpoints/
 img/
 *.jpg
 .env
+
 data/*.xlsx
+
+mp3/
